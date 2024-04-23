@@ -4,7 +4,6 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 ## Project Overview
 
-- **Website**: [Health Plus](https://alkaison.github.io/Health-Plus/ "Health Plus")
 - **Framework**: React.js
 - **Deployment**: GitHub Pages
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
@@ -73,6 +72,4 @@ To run the project locally:
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](./LICENSE "Project LICENSE").
